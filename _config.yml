@@ -22,9 +22,9 @@ color:
     - '#f59180'
     - '#afafaf'
   brandStrength: 1
-  lightness: 0.125
+  lightness: 0.375
   saturation: 0.625
-  rhythmicContrast: 1
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: null
