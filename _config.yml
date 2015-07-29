@@ -1,7 +1,7 @@
 name: null
 favicon: null
-layout_spectrum: 0.64081
-typography_spectrum: 0.62653
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,10 +21,10 @@ color:
     - '#f04d2e'
     - '#f59180'
     - '#afafaf'
-  brandStrength: 0.375
-  lightness: 0.25
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 1
+  lightness: 0.125
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose:
   - name: awareness
     item: null
