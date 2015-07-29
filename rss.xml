@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[Untitled RSS Feed]]></title>
         <description><![CDATA[Untitled RSS Feed]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wunderbar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jul 2015 16:37:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 29 Jul 2015 19:25:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wunderbar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<h1>Hello World</h1>]]></description>
+            <link>https://thegrid.ai/wunderbar/hello-world/index.html</link>
+            <guid isPermaLink="false">f7aaaf17-c3f2-48bb-8e43-292931487495</guid>
+            <pubDate>Wed, 29 Jul 2015 19:25:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6af84b54-c960-46d8-92b3-02c699d1ab25.jpg">]]></description>
-            <link>undefinedaef7f9f3-d9d6-4999-bfad-3d226740cafc/index.html</link>
+            <link>https://thegrid.ai/wunderbar/aef7f9f3-d9d6-4999-bfad-3d226740cafc/index.html</link>
             <guid isPermaLink="false">aef7f9f3-d9d6-4999-bfad-3d226740cafc</guid>
             <pubDate>Sat, 25 Jul 2015 12:13:44 GMT</pubDate>
         </item>
