@@ -5,7 +5,7 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/wunderbar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 21:35:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2015 21:35:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wunderbar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Buzzfeed on WeWork]]></title>
@@ -16,7 +16,7 @@
         </item>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<h1>Hello World</h1>]]></description>
+            <description><![CDATA[<article><h1>Hello World</h1><p>I am here, on The Grid. Maggie is with me. </p></article>]]></description>
             <link>https://thegrid.ai/wunderbar/hello-world/index.html</link>
             <guid isPermaLink="false">f7aaaf17-c3f2-48bb-8e43-292931487495</guid>
             <pubDate>Wed, 29 Jul 2015 19:25:08 GMT</pubDate>
