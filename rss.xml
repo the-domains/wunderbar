@@ -5,8 +5,14 @@
         <description><![CDATA[Untitled RSS Feed]]></description>
         <link>https://thegrid.ai/wunderbar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 04 Aug 2015 21:36:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2015 20:50:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wunderbar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MIT Tech Review - On Deep Learning ]]></title>
+            <description><![CDATA[<h1>MIT Tech Review - On Deep Learning </h1>]]></description>
+            <guid isPermaLink="false">2ea9fbd5-0b98-4641-9efb-89bed214db10</guid>
+            <pubDate>Mon, 10 Aug 2015 20:50:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Buzzfeed on WeWork]]></title>
             <description><![CDATA[<h1>Buzzfeed on WeWork</h1>]]></description>
