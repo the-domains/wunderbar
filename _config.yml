@@ -1,7 +1,7 @@
 name: Wunderbar
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.89652
+typography_spectrum: 0.78632
 cta:
   domain: null
   bucket: null
@@ -22,8 +22,8 @@ color:
     - '#fafafa'
     - '#f1ed14'
   brandStrength: 0.25
-  lightness: 0.5625
-  saturation: 0.4375
+  lightness: 0.375
+  saturation: 0.3125
   rhythmicContrast: 1
 purpose:
   - name: awareness
