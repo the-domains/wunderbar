@@ -1,7 +1,7 @@
-name: null
+name: Wunderbar
 favicon: null
-layout_spectrum: 0.25714
-typography_spectrum: 0.22662
+layout_spectrum: 0.76579
+typography_spectrum: 0.40672
 cta:
   domain: null
   bucket: null
@@ -16,15 +16,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#4f5dab'
-    - '#f04d2e'
-    - '#f59180'
-    - '#afafaf'
+    - '#0a0a0a'
+    - '#6c6c6c'
+    - '#ababab'
+    - '#fafafa'
+    - '#f1ed14'
   brandStrength: 1
-  lightness: 0.375
-  saturation: 0.625
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose:
   - name: awareness
     item: null
